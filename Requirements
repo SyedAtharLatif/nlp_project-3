@@ -1,5 +1,1 @@
-streamlit
-torch
-transformers
-peft
-huggingface_hub
+streamlit torch transformers peft huggingface_hub
